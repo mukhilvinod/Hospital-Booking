@@ -1,0 +1,14 @@
+li:hover{
+    background-color: rgb(226, 238, 172);
+    border-radius: 4px;
+
+}
+
+
+.bg-light {
+    background-color: #c8e18e!important;
+}
+nav.bg-light{
+    background-color: #c8e18e!important;
+
+}
